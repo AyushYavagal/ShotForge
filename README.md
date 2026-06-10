@@ -48,3 +48,8 @@ ShotForge will create cameras and timeline markers based on your shot list.
 - Camera angle presets
 - FOV adjustments
 - Shot notes
+
+## Screenshots
+
+![ShotForge panel](media/screenshot_panel.png)
+![Generated cameras](media/screenshot_cameras.png)
